@@ -9,10 +9,9 @@
 </p>
 
 ## 🚀 About Me
-
-I'm a passionate Android developer focused on building **cloud-connected**, **real-time**, and **user-centric** mobile applications. I specialize in **Kotlin**, **Java**, and **Firebase**, and follow **MVVM** and **Clean Architecture** to create scalable, maintainable codebases.
-
-I enjoy working across the entire development lifecycle — from crafting clean **UI/UX** to integrating robust **backend services** — emphasizing performance, responsiveness, and adherence to modern development best practices.
+- I'm a passionate Android developer focused on building **cloud-connected**, **real-time**, and **user-centric** mobile apps.
+- Skilled in **Kotlin**, **Java**, and **Firebase**, I follow **MVVM** and **Clean Architecture** to craft scalable, maintainable code.
+- I love working across the stack — from clean **UI/UX** to robust **backend integration** — with a strong focus on performance and modern best practices.
 
 ## 🎯 What I'm Up To
 - Building a mental wellness app focused on mindfulness, mood tracking, and emotional well-being.
