@@ -9,16 +9,16 @@
 </p>
 
 ## 🚀 About Me
-- I'm a passionate Android developer focused on building **cloud-connected**, **real-time**, and **user-centric** mobile apps.
-- Skilled in **Kotlin**, **Java**, and **Firebase**, I follow **MVVM** and **Clean Architecture** to craft scalable, maintainable code.
-- I love working across the stack — from clean **UI/UX** to robust **backend integration** — with a strong focus on performance and modern best practices.
+- Android developer focused on real-time, cloud-connected mobile apps
+- Learning Kotlin; familiar with Java and Firebase
+- Follows MVVM, Clean Architecture, and modular app design
+- Interested in crafting clean UIs using Jetpack Compose & XML
+- Passionate about clean UI, backend integration, and building scalable, high-performance apps
 
 ## 🎯 What I'm Up To
-- Building a mental wellness app focused on mindfulness, mood tracking, and emotional well-being.
-- Continuously learning Kotlin, Jetpack libraries, and keeping up with modern Android development trends.
-- Exploring Generative AI integration in Android — including chatbots and LLM APIs.
-- Experimenting with cloud automation to streamline mobile workflows and backend operations.
-- Fun fact: Defuse in CS2, Debug in Android — both need perfect timing.
+- Developing a mental wellness app (mindfulness, mood tracking)
+- Exploring Generative AI in Android (LLMs, chatbots, smart UX)
+- Diving deeper into Jetpack libraries & modern Android practices
 
 ## 🛠️ Tech Stack
 
