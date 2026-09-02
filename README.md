@@ -11,7 +11,7 @@
 ## 🚀 About Me
 - Android developer focused on real-time, cloud-connected mobile apps
 - Learning Kotlin; familiar with Java and Firebase
-- Follows MVVM, Clean Architecture, and modular app design
+- Follows Clean Architecture, and modular app design
 - Interested in crafting clean UIs using Jetpack Compose & XML
 - Passionate about clean UI, backend integration, and building scalable, high-performance apps
 
